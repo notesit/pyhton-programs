@@ -1,2 +1,2 @@
-# pyhton-programs
+# python-programs
 Tic Tac Toe Program 
