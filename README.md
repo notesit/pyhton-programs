@@ -1,3 +1,3 @@
 # python-programs
-lot's of cool python program 
-Expore others & add yours :)  
+lot's of cool python program ; 
+Explore others & add yours :)  
